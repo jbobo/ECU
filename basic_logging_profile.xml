@@ -21,7 +21,7 @@
         <parameter id="E93" units="%"/>
         <parameter id="E92" units="estimated AFR"/>
         <parameter id="E95" units="degrees"/>
-        <parameter id="E94" units="degrees"/>
+        <parameter id="E94" livedata="selected" dash="selected" units="degrees"/>
         <parameter id="E96" units="multiplier"/>
         <parameter id="P70" units="misfire count"/>
         <parameter id="P72" units="V"/>
@@ -48,18 +48,18 @@
         <parameter id="E33" units="status"/>
         <parameter id="E32" units="g/rev"/>
         <parameter id="E35" livedata="selected" units="psi"/>
-        <parameter id="P90" livedata="selected" units="multiplier"/>
+        <parameter id="P90" livedata="selected" dash="selected" units="multiplier"/>
         <parameter id="E34" units="absolute %"/>
         <parameter id="E37" units="absolute %"/>
-        <parameter id="P91" livedata="selected" units="degrees"/>
+        <parameter id="P91" livedata="selected" dash="selected" units="degrees"/>
         <parameter id="E36" units="psi relative sea level"/>
-        <parameter id="E39" livedata="selected" units="degrees"/>
-        <parameter id="E165" livedata="selected" units="count"/>
+        <parameter id="E39" units="degrees"/>
+        <parameter id="E165" livedata="selected" dash="selected" units="count"/>
         <parameter id="E38" units="%"/>
-        <parameter id="E166" livedata="selected" units="count"/>
-        <parameter id="E167" livedata="selected" units="count"/>
+        <parameter id="E166" livedata="selected" dash="selected" units="count"/>
+        <parameter id="E167" livedata="selected" dash="selected" units="count"/>
         <parameter id="P10" livedata="selected" units="degrees"/>
-        <parameter id="E168" livedata="selected" units="count"/>
+        <parameter id="E168" livedata="selected" dash="selected" units="count"/>
         <parameter id="P12" livedata="selected" units="g/s"/>
         <parameter id="P11" livedata="selected" units="F"/>
         <parameter id="P13" livedata="selected" units="%"/>
@@ -124,7 +124,7 @@
         <parameter id="P239" units="degrees"/>
         <parameter id="P51" units="%"/>
         <parameter id="P54" units="mA"/>
-        <parameter id="E124" livedata="selected" units="lambda"/>
+        <parameter id="E124" livedata="selected" dash="selected" units="lambda"/>
         <parameter id="P53" units="mA"/>
         <parameter id="P56" units="ohm"/>
         <parameter id="P58" units="AFR"/>
