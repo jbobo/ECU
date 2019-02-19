@@ -1,0 +1,8 @@
+Time (msec),Boost Error* (psi),Engine Load (Calculated) (g/rev),Engine Speed (rpm),Feedback Knock Correction (4-byte)* (degrees),Final Fueling Base (2-byte)* (lambda),Fine Learning Knock Correction (degrees),IAM (multiplier),Ignition Total Timing (degrees),Intake Air Temperature (F),Knock Sum Cylinder 1* (count),Knock Sum Cylinder 2* (count),Knock Sum Cylinder 3* (count),Knock Sum Cylinder 4* (count),Mass Airflow (g/s),Primary Wastegate Duty Cycle (%),Target Boost (2-byte)** (psi relative sea level),Throttle Opening Angle (%)
+0,4.04,0.35,1513,0.00,0.99,0.00,1.0000,19.00,32,1,0,0,0,8.98,0.00,-5.94,7.06
+0,4.05,0.35,1510,0.00,0.99,0.00,1.0000,19.00,32,1,0,0,0,8.88,0.00,-5.94,7.06
+140,4.06,0.36,1493,0.00,0.99,0.00,1.0000,20.50,32,1,0,0,0,8.97,0.00,-5.92,7.06
+140,4.09,0.37,1484,0.00,0.99,0.00,1.0000,21.50,32,1,0,0,0,9.23,0.00,-5.92,7.06
+332,4.05,0.38,1479,0.00,0.99,0.00,1.0000,22.00,32,1,0,0,0,8.98,0.00,-5.88,7.06
+396,4.02,0.37,1470,0.00,0.99,0.00,1.0000,22.50,32,1,0,0,0,9.33,0.00,-5.88,7.06
+505,4.01,0.38,1458,0.00,0.99,0.00,1.0000,23.00,32,1,0,0,0,9.02,0.00,-5.88,7.06
